@@ -1,5 +1,5 @@
 """
-Python version of TraceProfiler, used only for debugging
+Python version of TraceProfiler, used only for debugging.
 """
 
 import sys
